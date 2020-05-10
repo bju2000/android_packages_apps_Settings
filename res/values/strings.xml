@@ -9957,6 +9957,28 @@
     <!-- Note displayed when certain features are not available on low ram devices. [CHAR LIMIT=NONE] -->
     <string name="disabled_low_ram_device">This feature is not available on this device</string>
 
+    <!-- Maru Desktop settings -->
+    <!-- Title for setting tile leading to Desktop settings [CHAR LIMIT=40]-->
+    <string name="desktop_dashboard_title">Desktop</string>
+    <!-- Summary for Desktop settings [CHAR LIMIT=NONE]-->
+    <string name="desktop_dashboard_summary">Manage your desktop</string>
+    <string name="help_url_desktop_dashboard" translatable="false"></string>
+    <string name="desktop_main_settings_title">Dashboard</string>
+    <string name="desktop_status_starting">Uni-Os Desktop is starting...</string>
+    <string name="desktop_status_stopping">Uni-Os Desktop is shutting down...</string>
+    <string name="desktop_status_running">Uni-Os Desktop running.</string>
+    <string name="desktop_status_running_bg">Uni-Os Desktop running in background.</string>
+    <string name="desktop_status_stopped">Uni-Os Desktop off.</string>
+    <string name="desktop_status_start_failure">Uni-Os Desktop failed to start.</string>
+    <string name="desktop_status_stop_failure">Uni-Os Desktop failed to stop.</string>
+    <string name="desktop_status_crash">Uni-Os Desktop unexpectedly stopped.</string>
+    <string name="desktop_status_hint_interact">Connect to an external display to interact with your desktop.</string>
+    <string name="desktop_status_hint_autostart">Connect to an HDMI display to auto-start your desktop.</string>
+    <string name="desktop_shutdown_dialog_title">Shutdown desktop?</string>
+    <string name="desktop_shutdown_dialog_details">Your desktop apps will be closed immediately so make sure you save any unfinished work.</string>
+    <string name="desktop_shutdown_dialog_negative_action">Cancel</string>
+    <string name="desktop_shutdown_dialog_positive_action">Shutdown</string>
+
     <!-- UI debug setting: preference title - enforce full raw GNSS satellite measurements [CHAR LIMIT=60] -->
     <string name="enable_gnss_raw_meas_full_tracking">Force full GNSS measurements</string>
     <!-- UI debug setting: preference summary - describes the behavior of forcing full raw GNSS satellite measurements [CHAR LIMIT=NONE] -->
